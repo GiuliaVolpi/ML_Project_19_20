@@ -1,0 +1,3 @@
+[submodule "ISANet"]
+	path = ISANet
+	url = https://github.com/alessandrocuda/ISANet.git
