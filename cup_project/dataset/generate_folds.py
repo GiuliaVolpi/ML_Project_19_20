@@ -1,7 +1,7 @@
 import sys
 from os import path
 
-sys.path.insert(0, "../../")
+sys.path.insert(0, "../../ISANet")
 sys.path.insert(0, "./")
 
 

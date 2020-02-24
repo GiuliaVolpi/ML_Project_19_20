@@ -2,7 +2,7 @@ import sys
 from os import path
 import os
 
-sys.path.insert(0, "../../")
+sys.path.insert(0, "../../ISANet")
 sys.path.insert(0, "./")
 
 from isanet.neural_network import MLPRegressor
