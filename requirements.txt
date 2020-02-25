@@ -1,0 +1,7 @@
+pickle
+matplotlib
+numpy
+tabulate
+pandas
+seaborn
+imgkit
