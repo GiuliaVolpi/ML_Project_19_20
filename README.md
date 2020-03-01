@@ -41,3 +41,14 @@ And you are good to go!
  - [7] Simon S. Haykin. Neural networks and learning machines. Pearson Education, Upper Saddle River, NJ, third edition, 2009.
  - [8] Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems, page 2012.
  - [9] Xavier Glorot and Yoshua Bengio. Understanding the difficulty of training deep feedforward neural networks. In In Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS’10). Society for Artificial Intelligence and Statistics, 2010.
+ 
+ <!-- CONTACT -->
+## Authors
+
+ - Alessandro Cudazzo - [@alessandrocuda](https://twitter.com/alessandrocuda) - alessandro@cudazzo.com
+
+ - Giulia Volpi - giuliavolpi25.93@gmail.com
+
+<!-- LICENSE -->
+## License
+Copyright 2019 ©  <a href="https://alessandrocudazzo.it" target="_blank">Alessandro Cudazzo</a> - <a href="mailto:giuliavolpi25.93@gmail.com">Giulia Volpi</a>
